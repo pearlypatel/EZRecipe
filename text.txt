@@ -1,0 +1,13 @@
+project: EZRecipe
+what it does:
+    upload a picture of all the groceries you bought and this application gives you the full recipe of all the dishes you can make with the list of groceries.
+
+components of the project:
+    database
+    front-end
+    
+Directory:
+    signin page: done 
+    login page: done
+    nextpage: in progress
+    
